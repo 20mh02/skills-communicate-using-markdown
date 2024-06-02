@@ -6,3 +6,7 @@
 ###### automobile industry 
 
 ![My Image](https://ibb.co/P9bkvjh)
+
+``` javascript
+var myVar = "Hello, world!";
+```
